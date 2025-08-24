@@ -8,4 +8,4 @@ Python script to download Binance futures data (BTC/USDT).
 
 ## How to run
 ```bash
-python download.py
+python file_name.py
